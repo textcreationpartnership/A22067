@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King whereas by an acte of Parliament made in the two and twentieth yeere of the reigne of our most noble progenitour King Edward the Fourth, it was ... ordeined that all merchants which should carie or bring any merchandize out of Scotland, or the isles of the same into this realme of England ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1611</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22067</idno>
+            <idno type="STC">STC 8466</idno>
+            <idno type="STC">ESTC S3702</idno>
+            <idno type="EEBO-CITATION">33150800</idno>
+            <idno type="OCLC">ocm 33150800</idno>
+            <idno type="VID">28761</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22067)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28761)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:57)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King whereas by an acte of Parliament made in the two and twentieth yeere of the reigne of our most noble progenitour King Edward the Fourth, it was ... ordeined that all merchants which should carie or bring any merchandize out of Scotland, or the isles of the same into this realme of England ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, Printer to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1611.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Other title information from first 5 lines of text.</note>
+                  <note>Requiring customs to be paid on goods passing between Scotland and England.</note>
+                  <note>"Giuen at Our Pallace of Westminster the 17. day of May, in the ninth yeere of Our Reigne of Great Britaine, France and Ireland."</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tariff --  England --  Early works to 1800.</term>
+               <term>Tariff --  Scotland --  Early works to 1800.</term>
+               <term>England --  Commerce --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Commerce --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:28761:1"/>
+            <head>
+               <figure>
+                  <figDesc>blazon or coat of arms of the British royal family encircled by the order of the garter and topped by a rose and a thistle</figDesc>
+                  <head>
+                     <q>HONI SOIT QVI MAY Y PENSE</q>
+                  </head>
+               </figure> ¶ By the King.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas by an Acte of Parliament made in the two and twentieth</hi> yeere of the Reigne of Our moſt noble Progenitour King <hi>Edward</hi> the fourth; It was (amongſt other things) ordeined, that all Merchants which ſhould carie or bring any merchandize out of Scotland, or the Iſles of the ſame into this Realme of England or Wales, firſt ſhould bring the ſame merchandize to the Towne of <hi>Berwicke:</hi> And that none of the Kings liege people, nor none other perſon vnder the Kings obey<g ref="char:EOLhyphen"/>ſance ſhould carie any merchandize, or cauſe it to bee carried into this Realme of England, or any other place vnder the Kings obeyſance: But that the ſame merchan<g ref="char:EOLhyphen"/>dize ſhould be cuſtomed at the ſame Towne of <hi>Berwicke,</hi> except to the Citie of <hi>Carlile,</hi> and the Ports or Creekes pertaining to the Weſt Marches: And that no merchandize ſhould bee ſhipped in any Creeke, or other place betwixt <hi>Tinmouth</hi> and the ſaid Towne of <hi>Berwicke;</hi> but onely in the Port or Hauen of the ſaid Towne of <hi>Berwicke:</hi> And that if any perſon or perſons ſhould offend, or do with any maner merchandize aforeſaid, contrary to any of the ſaid ordinances, the ſame perſon or per<g ref="char:EOLhyphen"/>ſons ſhould forfeit all the ſaid merchandize, and that it ſhould be lawfull to any of the Kings liege Subiects to ſeize all ſuch merchandize ſo forfeited, or elſe to purſue in his owne name an Action of debt againſt the ſame perſon or perſons which ſo ſhould forfeit, conteining the ſumme of the va<g ref="char:EOLhyphen"/>lue of the ſaid goods, and the King to haue aſwell the one halfe of all ſuch merchandize forfeited and ſeized, as the one halfe of all ſuch ſummes of money, which ſhould be recouered by the Action in the forme aforeſaid, to bee purſued for the value of any ſuch goods ſo forfeit, and the perſon or perſons which ſhould ſeize, and purſue in the forme aforeſaid, to haue the other halfe of the ſame, as by the ſame Acte of Parliament (amongſt other things) more at large appeareth.</p>
+            <p>And whereas We were giuen to vnderſtand in the firſt yeere of our Reigne of our Realme of England, that ſince our entrie into this Kingdome, many of our ſubiects of our Realme of Scot<g ref="char:EOLhyphen"/>land, and ſome alſo of England did not obſerue the ſame Acte of Parliament, but to the intent to defraud vs of our ſaid Cuſtomes, did goe with their goods and merchandizes ouer the Felles, and other by-paſſages, whereby great damage was then done to vs:</p>
+            <p>And whereas Wee, for that cauſe at that time did by our Proclamation ſtraitly charge and command all Our Subiects, aſwell of the one Realme as of the other, that none of them ſhould preſume after that time to paſſe any goods from each Realme to other, but either ſhipped at ſome knowen Port, or elſe through Our ſaid citie of <hi>Carlile,</hi> or Towne of <hi>Berwicke,</hi> as by the ſame Procla<g ref="char:EOLhyphen"/>mation may alſo appeare.</p>
+            <pb facs="tcp:28761:2"/>
+            <pb facs="tcp:28761:2"/>
+            <p>And whereas We haue beene pleaſed of long time to forbeare to take any Cuſtomes, or other Duties, of any of Our Subiects of Scotland, for any goods paſſing betwixt Our ſaid King<g ref="char:EOLhyphen"/>domes, vntill now of late: During which time, Our Subiects did obſerue aſwell the ſaid Acte of Parliament, as the ſaid Proclamation: And foraſmuch, as We are now againe informed, that Our ſaid Subiects, ſince We haue giuen order to Our Officers to receaue Our Cuſtomes, for goods ſo caried betweene both Our ſaid Kingdomes, doe now againe goe with their goods and merchandize ouer the ſaid fels, and other by-paſſages, and ſhip the ſame at ſecret, obſcure, and vnknowen places, aſwell to the great damage and loſſe vnto Vs, in Our Cuſtomes and Subſi<g ref="char:EOLhyphen"/>dies, as vnto Our Subiects, both of this Our Realme of England, and alſo of Our Realme of Scotland, both by carying of goods prohibited to be caried out of this Our Realme into Our ſaid Realme of Scotland, and from thence into the forreine parts: and alſo by bringing of goods prohibited to be caried out of Our ſaid Realme of Scotland, into this Our Realme of England, and from hence carying the ſame into other forreine parts.</p>
+            <p>We minding to take away all ſuch excuſes as may be made in that behalfe, doe therefore by theſe preſents make it knowen to all Our louing Subiects, that We doe intend to haue the ſame Acte of Parliament, and all others of like effect put in ſtrait execution in all things aboue menti<g ref="char:EOLhyphen"/>oned, for and concerning land carriages, and ſuch goods as ſhall be ſhipped at ſuch ſecret, obſcure, and vnknowen places, and to haue the ſame very carefully obſerued, performed, fulfilled, and kept, to the onely end, that We, or Our Fermours may be truely anſwered of Our due cuſtomes, Subſidies, and other duties due for ſuch goods.</p>
+            <p>And for that purpoſe, We doe heereby authorize, and ſtraitly charge, will and require, aſwell Our Cuſtomers, Comptrollers, Searchers, &amp; other Our Officers, in Our Ports and Cuſtome houſes; As alſo all Our Lieuetennants, Deputie Lieuetenants, Maiors, Sheriffes, Bayliffes, Conſtables, and other Our Officers, Miniſters, and Subiects whatſoeuer, whom it ſhall con<g ref="char:EOLhyphen"/>cerne, not onely to ſee to the due execution of the ſame Acte of Parliament themſelues, to their beſt knowledge and ſkill: but alſo to be aiding and aſſiſting to all others, that ſhall endeauour to ſee the ſame put in execution, as is fit; as they will anſwere the contrary at their vttermoſt perills.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Pallace of Weſminſter</hi> 
+                  <date>
+                     <hi>the</hi> 17. <hi>day of May, in the ninth yeere of Our Reigne of Great Britaine, France and Ireland.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Robert Barker, Printer to the Kings moſt excellent Maieſtie. <hi>Anno Dom.</hi> 1611.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
